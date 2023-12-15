@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\BACK RETO 1\wcf_reservas\wcf_reservas\bin\wcf_reservas.dll.config
+C:\Users\User\Desktop\BACK RETO 1\wcf_reservas\wcf_reservas\bin\wcf_reservas.dll
+C:\Users\User\Desktop\BACK RETO 1\wcf_reservas\wcf_reservas\bin\wcf_reservas.pdb
+C:\Users\User\Desktop\BACK RETO 1\wcf_reservas\wcf_reservas\obj\Debug\wcf_reservas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BACK RETO 1\wcf_reservas\wcf_reservas\obj\Debug\wcf_reservas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BACK RETO 1\wcf_reservas\wcf_reservas\obj\Debug\wcf_reservas.dll
+C:\Users\User\Desktop\BACK RETO 1\wcf_reservas\wcf_reservas\obj\Debug\wcf_reservas.pdb
